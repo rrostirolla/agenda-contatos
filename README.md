@@ -6,8 +6,8 @@ Site emulando uma agenda para contatos.
 </br>
 
 ### 👨🏻‍💻 Tecnologias utilizadas 
-HTML
-CSS
+HTML </br>
+CSS </br>
 JavaScript
 
 </br>
